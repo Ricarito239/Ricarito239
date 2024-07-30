@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ricarito239
-- 👀 I’m interested in ... language c, javascript, Bash script, Linux, DB.
+- 👀 I’m interested in ... language c, javascript, Bash script, Linux, DB, industrial protocols, automatization, domotic.
 - 
 - 🌱 I’m currently learning ... javascript, language c.
 - 💞️ I’m looking to collaborate on ...
